@@ -13,7 +13,6 @@ This project is focused on predicting an individual's **monthly salary** based o
   
 ## Table of Contents
 - [Dataset](#dataset)
-- [Requirements](#requirements)
 - [Project Structure](#project-structure)
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
@@ -64,7 +63,6 @@ pip install -r requirements.txt
 ├── models
 │   └── salary_model.pkl      # Trained model (if applicable)
 ├── README.md                 # This readme file
-└── requirements.txt          # Python packages needed
 ```
 
 ## Modeling Approach
@@ -108,6 +106,3 @@ For a candidate with **5 years** of experience, the predicted monthly salary is 
 - **Cross-validation:** Implement cross-validation to ensure the robustness of the model.
 - **Data Scaling:** Test the model with normalized/standardized data to improve performance.
 
----
-
-Feel free to adjust this template to your specific project details.
