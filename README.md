@@ -2,7 +2,6 @@
 ### Monthly Salary Prediction Based on Work Experience in  years
 
 ## Project Overview
-![Screenshot (508)](https://github.com/user-attachments/assets/24e7da1d-170c-4069-a4ab-c58db5d2bbd4)
 ![Screenshot (509)](https://github.com/user-attachments/assets/1e938b4d-1c2a-475f-9a5c-9c0cd163f8df)
 ![Screenshot (510)](https://github.com/user-attachments/assets/4d54e42f-286b-4089-920f-1d613d94cc0f)
 
